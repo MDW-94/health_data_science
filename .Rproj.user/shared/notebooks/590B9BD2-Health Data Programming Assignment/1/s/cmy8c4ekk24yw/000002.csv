@@ -1,0 +1,8 @@
+"0","clean_full_ui$age_group <- factor(clean_full_ui$age_group, levels=c(""0-4 years"", ""5-9 years"", ""10-14 years"", ""15-24 years"", ""25-44 years"", ""45-64 years"", ""65-74 years"", ""75plus years""))"
+"0",""
+"0","clean_full_ui_filtered <- clean_full_ui %>% "
+"0","  filter(injury_type == ""Falls"")"
+"0",""
+"0","#Final reorganizing of data as some discrepancies were observed in previous observations, including incorrect ordering of age groups, this has been fixed by manually assign the order of the age groups by the factor() function. "
+"0",""
+"0","#The final filtered data set is made after the penultimate data observations in the first graph have shown that ""Falls"" have the highest rate of admission. This filtered data set will be used to determine the rate of death in the final plot of this report."
