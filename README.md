@@ -20,4 +20,7 @@ for the benefit of people (not the detriment!). Please feel free to get in touch
 any questions or would like to discuss anything - my LinkedIn can be found in my GitHub profile.
 
 
-![alt text](https://github.com/MDW-94/health_data_science/
+![alt text](https://github.com/MDW-94/health_data_science/healthdata_graph1.png
+
+
+healthdata_graph1.png
