@@ -1,3 +1,6 @@
+
+![First Graph representing the mortality rates in demographics](https://github.com/MDW-94/health_data_science/blob/main/healthdata_graph1.png)
+
 # Health Data Science - UoE - Final RMarkdown Assignment
 
 ## About
@@ -19,8 +22,6 @@ researching into new organisations that will utilise software engineering and da
 for the benefit of people (not the detriment!). Please feel free to get in touch if you have
 any questions or would like to discuss anything - my LinkedIn can be found in my GitHub profile.
 
-
-![First Graph representing the mortality rates in demographics](https://github.com/MDW-94/health_data_science/blob/main/healthdata_graph1.png)
 
 ![Second Graph representing falling injury admission data in NHS Services around Scotland](https://github.com/MDW-94/health_data_science/blob/main/healthdata_graph2.png)
 
