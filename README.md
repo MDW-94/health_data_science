@@ -16,6 +16,10 @@ There is a pdf which will showcase the final graphs towards the bottom of the do
 The markdown files have been included to which the corresponding R code for the graphs
 can be seen. 
 
+- git pull
+- run markdown files in RStudio
+- run code from beginning to end
+
 ## Final Notes & Ideas 
 I am always keen to discuss how technologies can be used for social good - I'm constantly
 researching into new organisations that will utilise software engineering and data science
