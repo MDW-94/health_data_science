@@ -19,7 +19,7 @@ can be seen.
 ## Final Notes & Ideas 
 I am always keen to discuss how technologies can be used for social good - I'm constantly
 researching into new organisations that will utilise software engineering and data science
-for the benefit of people (not the detriment!). Please feel free to get in touch if you have
+for the benefit of people. Please feel free to get in touch if you have
 any questions or would like to discuss anything - my LinkedIn can be found in my GitHub profile.
 
 I will be using https://quarto.org/ in the future to regularly update my development plus 
